@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace TastyBuns
 {
-    class Program
+    class bunclass
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
