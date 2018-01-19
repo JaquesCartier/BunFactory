@@ -10,8 +10,7 @@ namespace TastyBuns
     {
         static void Main(string[] args)
         {
-            //comment
-            //another comment
+
         }
     }
 }
